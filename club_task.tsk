@@ -1,0 +1,38 @@
+<Task type="RT">
+	<Point type="Start">
+		<Waypoint name="S-0">
+			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint name="S-0">
+			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint name="S-1">
+			<Location latitude="50.129262175511" longitude="8.086636039502281"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint name="S-2">
+			<Location latitude="49.58665434414408" longitude="10.281286124946348"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint name="S-3">
+			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint name="S-4">
+			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+</Task>
