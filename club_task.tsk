@@ -15,13 +15,13 @@
     <Waypoint name="049Bruchsal" id="0" comment="" altitude="118.0">
       <Location longitude="8.5613833" latitude="49.1516667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="174Monsheim" id="0" comment="" altitude="149.0">
       <Location longitude="8.1983333" latitude="49.63555"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
@@ -30,4 +30,3 @@
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
-
