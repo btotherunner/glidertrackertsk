@@ -1,38 +1,33 @@
-<Task type="RT">
-	<Point type="Start">
-		<Waypoint name="S-0">
-			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint name="S-0">
-			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint name="S-1">
-			<Location latitude="50.129262175511" longitude="8.086636039502281"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint name="S-2">
-			<Location latitude="49.58665434414408" longitude="10.281286124946348"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint name="S-3">
-			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Finish">
-		<Waypoint name="S-4">
-			<Location latitude="49.16839278306415" longitude="8.163481568715468"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
+      <Location longitude="8.1347167" latitude="49.1752833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="103Heppenheim" id="0" comment="" altitude="96.0">
+      <Location longitude="8.6308333" latitude="49.6041667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="049Bruchsal" id="0" comment="" altitude="118.0">
+      <Location longitude="8.5613833" latitude="49.1516667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="174Monsheim" id="0" comment="" altitude="149.0">
+      <Location longitude="8.1983333" latitude="49.63555"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
+      <Location longitude="8.1347167" latitude="49.1752833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
 </Task>
+
