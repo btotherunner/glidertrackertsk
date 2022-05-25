@@ -1,27 +1,27 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
       <Location longitude="8.1347167" latitude="49.1752833"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="103Heppenheim" id="0" comment="" altitude="96.0">
-      <Location longitude="8.6308333" latitude="49.6041667"/>
+  <Point type="Turn">
+    <Waypoint name="026Bad Sobernheim" id="0" comment="" altitude="247.0">
+      <Location longitude="7.66445" latitude="49.79055"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="049Bruchsal" id="0" comment="" altitude="118.0">
-      <Location longitude="8.5613833" latitude="49.1516667"/>
+  <Point type="Turn">
+    <Waypoint name="142Krh" id="0" comment="" altitude="265.0">
+      <Location longitude="8.5836167" latitude="48.99305"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
+  <Point type="Turn">
     <Waypoint name="174Monsheim" id="0" comment="" altitude="149.0">
       <Location longitude="8.1983333" latitude="49.63555"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
@@ -30,3 +30,4 @@
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
+
