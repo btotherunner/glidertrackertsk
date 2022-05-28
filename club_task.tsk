@@ -1,26 +1,26 @@
-<Task type="AAT" task_scored="0" aat_min_time="7200" start_max_speed="150" start_max_height="1150" start_max_height_ref="MSL" finish_min_height="350" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="7200" start_max_speed="150" start_max_height="1400" start_max_height_ref="MSL" finish_min_height="350" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
-      <Location longitude="8.1347167" latitude="49.1752833"/>
+    <Waypoint name="001AP01" id="0" comment="" altitude="170.0">
+      <Location longitude="8.0933333" latitude="49.1727833"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="234Sinsheim" id="0" comment="" altitude="174.0">
-      <Location longitude="8.8861167" latitude="49.2388833"/>
+    <Waypoint name="062Donnersberg" id="0" comment="" altitude="661.0">
+      <Location longitude="7.9158333" latitude="49.6263833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="30000.0"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="036Bensheim" id="0" comment="" altitude="92.0">
-      <Location longitude="8.5536167" latitude="49.6647167"/>
+    <Waypoint name="050Buchen" id="0" comment="" altitude="328.0">
+      <Location longitude="9.32" latitude="49.5233333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
       <Location longitude="8.1347167" latitude="49.1752833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="6000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
