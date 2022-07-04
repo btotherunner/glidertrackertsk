@@ -1,13 +1,13 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Landau Ebenberg" id="0" comment=" 123.375" altitude="162.0">
-      <Location longitude="8.1361111" latitude="49.1763889"/>
+    <Waypoint name="Bundenthal Rumbc" id="0" comment=" 123.35" altitude="308.0">
+      <Location longitude="7.7938889" latitude="49.0938889"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dierdorf Wienau" id="0" comment="EDRW 128.925" altitude="291.0">
-      <Location longitude="7.6525" latitude="50.5658333"/>
+    <Waypoint name="Bad Neuenahr Ahr" id="0" comment="EDRA 122.35" altitude="204.0">
+      <Location longitude="7.1372222" latitude="50.5577778"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -27,7 +27,7 @@
     <Waypoint name="Landau Ebenberg" id="0" comment=" 123.375" altitude="162.0">
       <Location longitude="8.1361111" latitude="49.1763889"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 
