@@ -1,19 +1,25 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Bundenthal Rumbc" id="0" comment=" 123.35" altitude="308.0">
-      <Location longitude="7.7938889" latitude="49.0938889"/>
+    <Waypoint name="Landau Ebenberg" id="0" comment=" 123.375" altitude="162.0">
+      <Location longitude="8.1361111" latitude="49.1763889"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Radevormwald Ley" id="0" comment=" 123.475" altitude="390.0">
-      <Location longitude="7.3822222" latitude="51.2163889"/>
+    <Waypoint name="Bundenthal Rumbc" id="0" comment=" 123.35" altitude="308.0">
+      <Location longitude="7.7938889" latitude="49.0938889"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Cheb Horni Dvori" id="0" comment="LKCB None" altitude="483.0">
-      <Location longitude="12.4116667" latitude="50.0661111"/>
+    <Waypoint name="Plettenberg Huei" id="0" comment="EDKP 122.925" altitude="307.0">
+      <Location longitude="7.7897222" latitude="51.1922222"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="10.8869018555" latitude="50.2463989995"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
