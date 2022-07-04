@@ -9,13 +9,13 @@
     <Waypoint name="Radevormwald Ley" id="0" comment=" 123.475" altitude="390.0">
       <Location longitude="7.3822222" latitude="51.2163889"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Cheb Horni Dvori" id="0" comment="LKCB None" altitude="483.0">
       <Location longitude="12.4116667" latitude="50.0661111"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Landau Ebenberg" id="0" comment=" 123.375" altitude="162.0">
