@@ -6,14 +6,14 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Plettenberg Huei" id="0" comment="EDKP 122.925" altitude="307.0">
-      <Location longitude="7.7897222" latitude="51.1922222"/>
+    <Waypoint name="Werdohl Kuentrop" id="0" comment="EDKW 118.0" altitude="307.0">
+      <Location longitude="7.8175" latitude="51.2969444"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Westhausen" id="0" comment=" None" altitude="301.0">
-      <Location longitude="10.6802778" latitude="50.3041667"/>
+    <Waypoint name="Bayreuth" id="0" comment="EDQD 127.525" altitude="482.0">
+      <Location longitude="11.6411111" latitude="49.9852778"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
