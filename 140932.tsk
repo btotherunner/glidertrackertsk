@@ -6,20 +6,14 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bundenthal Rumbc" id="0" comment=" 123.35" altitude="308.0">
-      <Location longitude="7.7938889" latitude="49.0938889"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
     <Waypoint name="Plettenberg Huei" id="0" comment="EDKP 122.925" altitude="307.0">
       <Location longitude="7.7897222" latitude="51.1922222"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
-      <Location longitude="10.8869018555" latitude="50.2463989995"/>
+    <Waypoint name="Westhausen" id="0" comment=" None" altitude="301.0">
+      <Location longitude="10.6802778" latitude="50.3041667"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
